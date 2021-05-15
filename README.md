@@ -1,8 +1,8 @@
 ## Record Linkage
 ### implementation of recordlinkage.
-Many data mining and machine learning projects require information from various data sources to be integrated and linked before they can be used for further analysis.
+Many data mining and machine learning projects require information from ***various data sources*** to be integrated and linked before they can be used for further analysis.
 
-A crucial task of such data integration is to identify which records refer to the same real-world entities across databases when  *no common identifiers*, *keys* or *consistent IDs* are available and when records can contain errors and variations.
+A crucial task of such data integration is to identify which records refer to the same real-world entities across databases when  ***no common identifiers***, ***keys*** or ***consistent IDs*** are available and when records can contain errors and variations.
 
 This process of record linkage therefore has to rely upon the attributes that are available in the databases to be linked.
 
